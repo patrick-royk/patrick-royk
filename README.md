@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrick-royk
 - 👀 I’m interested in computational physics
-- 🌱 I’m currently learning physics, cs, and math at college
-- 💞️ I’m looking to collaborate on something a intermediate programer could do.
+- 🌱 I’m currently applying to cs PhD programs
+- 💞️ I’m looking to collaborate on something an intermediate programmer could do.
 - 📫 How to reach me patrick.royk@gmail.com
 
 <!---

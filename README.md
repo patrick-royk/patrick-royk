@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patrick-royk
-- 👀 I’m interested in how computational science can be applied to fundamental research and practical invention to impact a braod range of feilds
+- 👀 I’m interested in how computational material science and engineering can be applied to the design of mechanical metamaterials!
 - 🌱 I’m currently in a MS for Mech-Eng
 - 💞️ I’m looking to collaborate on scientific tools!
 - 📫 How to reach me patrick.royk@gmail.com
